@@ -1,3 +1,7 @@
+![image](https://github.com/barionleg/sunburst-radar-chart-workspace/assets/102619282/4e9db661-b17a-4257-b4b5-0744dc4a7033)
+
+
+
 (NOTE: this block is d3 version 3. Go [here](//bl.ocks.org/kerryrodden/766f8f6d31f645c39f488a0befa1e3c8) instead if you want a version of this block that works with d3 v4, and see [the Observable version](https://observablehq.com/@kerryrodden/sequences-sunburst) for d3 v5).
 
 This example shows how it is possible to use a [D3 sunburst visualization](//bl.ocks.org/mbostock/4063423) (partition layout) with data that describes sequences of events.
