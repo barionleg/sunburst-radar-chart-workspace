@@ -24,10 +24,10 @@ export const countriesWithCounty = [
     }, {name: 'Ward 5', value: 94}, {name: 'Ward 6', value: 95}, {name: 'Ward 7', value: 94}, {name: 'Ward 8', value: 92}]
   },
   {
-    name: 'Arizona ',
+    name: 'Opioides ',
     value: 98,
     color: '#6880be',
-    children: [{name: 'Navajo County', value: 99}, {name: 'Maricopa County', value: 95}, {name: 'Mohave County', value: 99}]
+    children: [{name: 'AH-7921', value: C16H22Cl2N2O}, {name: 'Acétyl fentanyl', value: C21H26N2O}, {name: 'Ocfentanil', value: C22H27FN2O2}]
   }
 ];
 
